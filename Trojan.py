@@ -29,9 +29,9 @@ print(f"""{green}
      ▐░▌     ▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░▌    ▐░▌       ▐░▌▐░▌      ▐░░▌▐░▌          
       ▀       ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀      ▀         ▀  ▀        ▀▀  ▀""")
 print(f"""{green}
-[*] Developer => Swam Htet Aung
-[*] Country   => Myanmar
-[*] github    => https://github.com/swam-htet-a{white}
+[*] Developer => RIFKI017
+[*] Country   => INDONESIA
+[*] github    => https://github.com/RIZKI017-a{white}
 -------------------****-------------------
 
     """)
